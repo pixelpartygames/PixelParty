@@ -1,0 +1,10 @@
+.Borders{
+}
+.containMe{
+    display: flex;
+    position: relative;
+}
+.containMe .inside{
+    position:absolute;
+    z-index: 1;
+} 
